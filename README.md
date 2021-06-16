@@ -1,3 +1,5 @@
+#  All original rights to manisteinn from Deskthority...
+
 readme copied from https://github.com/qmk/qmk_firmware/tree/master/keyboards/converter/ibm_5291
 
 # IBM 5291 keyboard converter
